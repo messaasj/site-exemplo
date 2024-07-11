@@ -9,8 +9,11 @@ body{
 
 main{
     background-color: white;
-    width: 500px;
+    width: 560px;
     margin: auto;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.63);
     padding: 10px;
+}
+img.lado{
+    float: right;
 }
